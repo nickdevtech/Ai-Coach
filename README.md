@@ -81,10 +81,6 @@ The app will be running at 👉 `http://localhost:3000`
 
 ---
 
-## 🌍 Deployment
-
-Deployed with [Vercel](https://vercel.com/).  
-Set the same environment variables in the Vercel dashboard under **Project Settings > Environment Variables**.  
 
 Run database migrations in production:
 ```bash
@@ -95,9 +91,7 @@ npx prisma migrate deploy
 
 ## 📘 Live Demo
 👉 [AI Career Coach](https://ai-coach-gu85-git-main-nicks-projects-12f88e89.vercel.app)  
-> ⚠ If you see an “Internal Error,” check that your environment variables and database settings are configured properly.
 
----
 
 ## 🤝 Contributing
 Contributions are welcome! Fork the repo, make changes, and submit a pull request.
