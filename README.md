@@ -3,6 +3,9 @@
 An AI-powered full-stack career coach that helps you **build resumes, generate cover letters, and prepare for interviews**.  
 Built with **React 19 + Next.js 15**, styled with **Tailwind CSS + Shadcn UI**, and powered by **Gemini AI**.
 
+## 📘 Live Demo
+👉 [AI Career Coach](https://ai-coach-gu85-git-main-nicks-projects-12f88e89.vercel.app)  
+
 ---
 
 ## 🚀 Features
@@ -81,17 +84,12 @@ The app will be running at 👉 `http://localhost:3000`
 
 ---
 
-
 Run database migrations in production:
 ```bash
 npx prisma migrate deploy
 ```
 
 ---
-
-## 📘 Live Demo
-👉 [AI Career Coach](https://ai-coach-gu85-git-main-nicks-projects-12f88e89.vercel.app)  
-
 
 ## 🤝 Contributing
 Contributions are welcome! Fork the repo, make changes, and submit a pull request.
