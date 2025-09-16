@@ -7,7 +7,7 @@ Built with **React 19 + Next.js 15**, styled with **Tailwind CSS + Shadcn UI**, 
 
 ## 🚀 Features
 - 📄 **Resume Builder** – Create professional resumes in minutes
-- 📝 **Cover Letter Generator** – Tailored cover letters from job descriptions
+- 📝 **Cover Letter Generator** – AI Tailored cover letters from job descriptions
 - 🎯 **Interview Preparation** – AI-generated practice questions & performance tracking
 - 🔐 **Authentication** – Secure login with Clerk
 - ⚡ **Background Workflows** – Async tasks powered by Inngest
