@@ -1,5 +1,7 @@
 # 🧑‍💼 AI Career Coach
 
+ElevateAI
+
 An AI-powered full-stack career coach that helps you **build resumes, generate cover letters, and prepare for interviews**.  
 Built with **React 19 + Next.js 15**, styled with **Tailwind CSS + Shadcn UI**, and powered by **Gemini AI**.
 
